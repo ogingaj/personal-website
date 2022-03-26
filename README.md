@@ -1,10 +1,11 @@
 # Project 1: Personal Website
 
 ## Instructions
-1. Fork this repo to your own GitHub account (Don't know what fork is or how to fork? Check [this](https://docs.github.com/get-started/quickstart/fork-a-repo#forking-a-repository) out)
-2. Clone the forked repo with HTTPS to your computer, just like how you do in CSC226 and CSC236.
-3. Open the cloned folder and navigate to `flask-app/templates/`
-4. Open `index.html` in a code editor or IDE (e.g. PyCharm, Visual Studio Code, Atom, etc.)
+1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
+2. Fork this repo to your own GitHub account (Don't know what fork is or how to fork? Check [this](https://docs.github.com/get-started/quickstart/fork-a-repo#forking-a-repository) out)
+3. Clone the forked repo with HTTPS to your computer, just like how you do in CSC226 and CSC236.
+4. Open the cloned folder and navigate to `flask-app/templates/`
+5. Open `index.html` in Visual Studio Code
 
 ## What's a user story?
 Software engineers use the term 'user story' to refer to the features the users want. That helps engineers see the development process from the users' point of view. Therefore, in our projects, we call the requirements/features user stories.  
