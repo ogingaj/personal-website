@@ -17,7 +17,7 @@ In project 1, you will build a personal webpage. You will include some informati
 - [ ] Your page should have the following sections: bio (about), skills, experience, projects, contact info (hint: for each section name, use `<h2>` or `<h3>` tags)
 - [ ] Add some relevant content to each of your sections (hint: you can use `<p>` tags for writing content)
   - [ ] For instance, in the bio section, add some information about yourself
-- [ ] Create a button named 'Resume' in the bio section (no need to actually link your resume to the button - that's an optional challenge below)
+- [ ] Create a button named 'Resume' in the bio section (no need to actually link your resume to the button - that's an optional challenge below) (hint: use the `<button>` tag)
 - [ ] Add hyperlinks to your GitHub and/or LinkedIn profiles; this could be in the contact info section (hint: use `<a>` tags)
 - [ ] (optional challenge) Add a picture (e.g. profile picture) (this could be in the bio section)
 - [ ] (optional challenge) link the `Resume` button to your resume so that when the button is clicked, the user can view your resume (hint: you can get a google doc link to your resume and make the button redirect you to that link when it is clicked)
