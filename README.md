@@ -4,7 +4,7 @@
 1. Fork this repo to your own GitHub account
 2. Clone the forked repo to your computer
 3. Navigate to `flask-app/templates/`
-4. 
+4. Open `index.html` and start coding
 
 
 ## Required User Stories:
