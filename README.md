@@ -17,6 +17,7 @@ In project 1, you will build a personal webpage. You will include some informati
         * `sudo apt-get install virtualenv`   # installs a virtual environment tool
         * `virtualenv venv`  # creates a virtual environment (venv)
         * `source ./venv/bin/activate`  # activates the venv
+      
       PowerShell:
       * Navigate to the cloned directory on your terminal
       * If you have `pip` installed, run the command `pip install virtualenv`. If not, run `python -m venv venv` OR `python3 -m venv venv`. This step creates a virtual environment
