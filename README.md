@@ -6,10 +6,31 @@ In project 1, you will build a personal webpage. You will include some informati
 1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
 2. Fork this repo to your own GitHub account (Don't know what fork is or how to fork? Check [this](https://docs.github.com/get-started/quickstart/fork-a-repo#forking-a-repository) out)
 3. Clone the forked repo with HTTPS to your computer, just like how you do in CSC226 and CSC236.
-4. Open the cloned folder and navigate to `flask-app/templates/`
-5. Open `index.html` in Visual Studio Code
-6. For this project, **ALL** of the coding will be in HTML inside the `index.html` file (No need to create more files)
-7. Before you start coding, it's a good idea to complete the HTML section of Worksheet 1 to have a basic understanding of the language.
+4. Based on what terminal/OS you use, do the following:
+  
+    Windows:
+      If you have Ubuntu Terminal, use that. Otherwise, use PowerShell.
+      Ubuntu Terminal:
+      * Navigate to the cloned directory on your terminal
+      * Run the following commands: 
+        * `sudo apt-get update`  # updates your Ubuntu/Linux package manager
+        * `sudo apt-get install virtualenv`   # installs a virtual environment tool
+        * `virtualenv venv`  # creates a virtual environment (venv)
+        * `source ./venv/bin/activate`  # activates the venv
+      PowerShell:
+      * Navigate to the cloned directory on your terminal
+      * If you have `pip` installed, run the command `pip install virtualenv`. If not, run `python -m venv venv` OR `python3 -m venv venv`. This step creates a virtual environment
+      * Run `.\venv\Scripts\activate` to activate the virtual environment
+    Mac:
+      Use the Mac terminal.
+      * Navigate to the cloned directory on your terminal
+      * 
+
+5. Create a virtual environment
+6. Navigate to `flask-app/templates/`
+7. Open `index.html` in Visual Studio Code
+8. For this project, **ALL** of the coding will be in HTML inside the `index.html` file (No need to create more files)
+9. Before you start coding, it's a good idea to complete the HTML section of Worksheet 1 to have a basic understanding of the language.
 
 
 ## Requirements:
