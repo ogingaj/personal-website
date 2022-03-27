@@ -15,7 +15,7 @@ In project 1, you will build a personal webpage. You will include some informati
       
       If you have Ubuntu Terminal, use that. Otherwise, use PowerShell.
       
-      **Ubuntu Terminal**:
+      **Ubuntu Terminal users on Windows**:
       * Navigate to the cloned directory on your terminal
       * Run the following commands: 
         * `sudo apt-get update`  # updates your Ubuntu/Linux package manager
@@ -23,23 +23,36 @@ In project 1, you will build a personal webpage. You will include some informati
         * `virtualenv venv`  # creates a virtual environment (venv)
         * `source ./venv/bin/activate`  # activates the venv
       
-      **PowerShell**:
+      **PowerShell users on Windows**:
       * Navigate to the cloned directory on your terminal
       * If you have `pip` installed, run the command `pip install virtualenv`. If not, run `python -m venv venv` OR `python3 -m venv venv`. This step creates a virtual environment
       * Run `.\venv\Scripts\activate` to activate the virtual environment
     
-    **Mac**: Use the Mac terminal.
+    **Mac users**: Use the Mac terminal.
       * Navigate to the cloned directory on your terminal
       * Run `python -m venv venv` OR `python3 -m venv venv` to create a virtual environment
       * Run `source ./venv/bin/activate` to activate the virtual environment
 
-5. Install project dependencies
-6. Navigate to `flask-app/templates/`
-7. Open `index.html` in Visual Studio Code
-8. For this project, **ALL** of the coding will be in HTML inside the `index.html` file (No need to create more files). We have also provided you with some starter code.
-9. How to see the result of your HTML code???
+5. Install project dependencies: Run `pip install -r requirements.txt`
+6. Run `flask run`. If successfull, congrats, you just started your first Flask app! You should get the following message:
 
-      Right click the `index.html` file, click 'Open With' and select any browser, such as Firefox or Chrome. Your HTML file will be rendered by your browser! Now, replace 'Alice' in the starter code with your name. Refresh your page on the browser. You should see your name instead of Alice. Keep making changes and refreshing to see the results.
+    ```
+     * Serving Flask app 'flask-app' (lazy loading)
+     * Environment: development
+     * Debug mode: on
+     * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+     * Restarting with stat
+     * Debugger is active!
+     * Debugger PIN: 143-635-663
+    ```
+    Copy and paste the URL `http://127.0.0.1:5000/` above into your browser. Your URL might be different from this one. You should see a page titled Alice's Personal Page.
+
+7. Next, navigate to `flask-app/templates/`
+8. Open `index.html` in Visual Studio Code
+9. For this project, **ALL** of the coding will be in HTML inside the `index.html` file (No need to create more files). We have also provided you with some starter code.
+10. How to see the result of your HTML code???
+
+      Replace 'Alice' in the starter code with your name. Refresh your page on the browser. You should see your name instead of Alice. Keep making changes and refreshing to see the results.
 10. Before you start coding, it's a good idea to complete the HTML section of Worksheet 1 to have a basic understanding of the language.
 11. See the requirements below...
 
