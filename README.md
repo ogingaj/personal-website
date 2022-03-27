@@ -4,7 +4,6 @@ In project 1, you will build a personal webpage. You will include some informati
 
 ## Project Prerequisites
 1. Following the instructions in [Worksheet 1](https://docs.google.com/document/d/1dExYPt08Xverw7PZkicfQW5H37XQ69UiXMHoycyGV2s/edit?usp=sharing), install Ubuntu Terminal (doesn't apply to Mac users) and pip.
-2. 
 
 ## Instructions
 1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
