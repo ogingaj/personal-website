@@ -3,7 +3,35 @@
 In project 1, you will build a personal webpage. You will include some information about yourself, such as work/education experiences and contact info. You will code only in HTML and apply some of the skills gained from the worksheet. If you already have a personal website, then keep learning more about HTML/Bootstrap or explore front-end frameworks like React.
 
 ## Project Prerequisites
+If you already have Ubuntu Terminal (windows users) and pip installed, skip this part and go to Instructions.
+
 1. Following the instructions in [Worksheet 1](https://docs.google.com/document/d/1dExYPt08Xverw7PZkicfQW5H37XQ69UiXMHoycyGV2s/edit?usp=sharing), install Ubuntu Terminal (doesn't apply to Mac users) and pip.
+2. IF for some reason, you are not able to install Ubuntu Terminal, this is how you install pip without Ubuntu:
+
+    **Windows and Mac OS Pip Installation**
+      1. Run the following command to download pip
+      `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+      2. Run the following command
+      `python get-pip.py`
+      (NOTE: depending on your python versions, you may need to run this python3 get-pip.py if you get an error about python)
+      
+      If the above method does not work, then follow the instructions provided in Step 3 of this artice.
+        
+      1. Download the get-pip.py file (link is in the [article](https://www.liquidweb.com/kb/install-pip-windows/))
+      2. Open a terminal (command propmt, ubuntu, etc.)
+      3. Navigate to the folder where get-pip.py was installed
+      4. Run the following command
+      `python get-pip.py`
+      
+      Adding Python to PATH
+        
+      1. Run the following command to check your python version
+      python --version
+      If you see a python version displayed on your terminal, then skip step 2. You're good to go!
+      2. If your terminal does not recognize python
+      - and if you are using windows OS, then following the instructions provided [here](https://www.geeksforgeeks.org/how-to-add-python-to-windows-path/)
+      - if you are on Mac OS, follow [these instructions](https://programwithus.com/learn/python/install-python3-mac)
+        - Note: in Mac OS, if you install Python using Homebrew, Homebrew will take care of adding Python to PATH, so you don't need to do anything else.
 
 ## Instructions
 1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
