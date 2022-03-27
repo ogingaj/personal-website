@@ -2,6 +2,10 @@
 
 In project 1, you will build a personal webpage. You will include some information about yourself, such as work/education experiences and contact info. You will code only in HTML and apply some of the skills gained from the worksheet. If you already have a personal website, then keep learning more about HTML/Bootstrap or explore front-end frameworks like React.
 
+## Project Prerequisites
+1. Following the instructions in [Worksheet 1](https://docs.google.com/document/d/1dExYPt08Xverw7PZkicfQW5H37XQ69UiXMHoycyGV2s/edit?usp=sharing), install Ubuntu Terminal (doesn't apply to Mac users) and pip.
+2. 
+
 ## Instructions
 1. Visual Studio Code (VS Code) code editor is a lightweight and user-friendly tool to edit code. If you already have it installed, skip this step. Otherwise, download and install VS Code for your particular OS [here](https://code.visualstudio.com/Download).
 2. Fork this repo to your own GitHub account (Don't know what fork is or how to fork? Check [this](https://docs.github.com/get-started/quickstart/fork-a-repo#forking-a-repository) out)
