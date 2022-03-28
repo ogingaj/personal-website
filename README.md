@@ -101,3 +101,7 @@ If you already have Ubuntu Terminal (windows users) and pip installed, skip this
 With basic requirements met, your page will look something like this:
 
 ![image](https://user-images.githubusercontent.com/44060682/160262534-de2660eb-2599-42a3-8f67-cd9fe1c2a125.png)
+
+
+## Submission
+Submit a screenshot of your webpage using [this form](https://forms.gle/AaUmyS6mPvrj3EFR7) by 12 PM on April 2.
