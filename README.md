@@ -5,7 +5,7 @@ In project 1, you will build a personal webpage. You will include some informati
 ## Project Prerequisites
 If you already have Ubuntu Terminal (windows users) and pip installed, skip this part and go to Instructions.
 
-1. Following the instructions in [Worksheet 1](https://docs.google.com/document/d/1dExYPt08Xverw7PZkicfQW5H37XQ69UiXMHoycyGV2s/edit?usp=sharing), install Ubuntu Terminal (doesn't apply to Mac users) and pip.
+1. Following the instructions in [Worksheet 1](https://docs.google.com/document/d/1dExYPt08Xverw7PZkicfQW5H37XQ69UiXMHoycyGV2s/edit?usp=sharing) (use this updated version as opposed to your copy), install Ubuntu Terminal (doesn't apply to Mac users) and pip.
 2. IF for some reason, you are not able to install Ubuntu Terminal, this is how you install pip without Ubuntu:
 
     **Windows and Mac OS Pip Installation**
