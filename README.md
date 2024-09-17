@@ -1,5 +1,7 @@
 # Project 1: Personal Website
 
+This is a modification 
+
 In project 1, you will build a personal webpage. You will include some information about yourself, such as work/education experiences and contact info. You will code only in HTML and apply some of the skills gained from the worksheet. If you already have a personal website, then keep learning more about HTML/Bootstrap or explore front-end frameworks like React.
 
 ## Project Prerequisites
